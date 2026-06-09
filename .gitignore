@@ -1,0 +1,18 @@
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# Syncthing / cloud-sync conflict copies
+.sync-conflict-*
+
+# Local Claude Code project settings
+.claude/settings.local.json
+
+# Internal project instructions (not for public repo)
+CLAUDE.md
+AGENTS.md
+
+# IDE
+.idea/
